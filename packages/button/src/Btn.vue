@@ -36,7 +36,7 @@ export default {
       this.loadingBtn = data
     },
     type (data) {
-      // this.type = data
+      // this.type = data;
       this.initBtnType()
     },
     size (data) {
