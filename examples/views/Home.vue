@@ -1,7 +1,7 @@
 <template>
-  <view class="home">
+  <div class="home">
     <wx-button class="button" type="primary" size="medium" @click="btnComponent">按钮组件</wx-button>
-  </view>
+  </div>
 </template>
 
 <script>
