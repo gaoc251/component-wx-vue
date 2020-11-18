@@ -1,14 +1,14 @@
 {
   "name": "components-weapp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "taro3 vue3 组件库",
-  "main": "lib/zzmcomponentlib.umd.min.js",
+  "main": "lib/componentWx.umd.min.js",
   "private": false,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "lib": "vue-cli-service build --target lib --name zzmcomponentlib --dest lib packages/index.js"
+    "lib": "vue-cli-service build --target lib --name componentWx --dest lib packages/index.js"
   },
   "dependencies": {
     "core-js": "^3.6.5",
